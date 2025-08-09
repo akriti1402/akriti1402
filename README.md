@@ -7,10 +7,10 @@
 
 ## 🚀 About Me
 - 🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 📱 **Android & React Enthusiast**
-- 🌱 Currently learning **Java**, **React**, **Android Development**, and **Web Applications**
+- 🌱 Currently learning **Java**, **React** and **Web Applications**
 - 🔭 Building personal projects to sharpen my problem-solving skills
 - 🤝 Open to collaborating on **open-source** and **innovative projects**
-- ✨ Fun fact: I debug like a detective — every bug is a plot twist!
+
 
 ---
 
