@@ -1,15 +1,16 @@
 <!-- Typing effect header -->
-# Hi there, I'm Akriti Rai 👋
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akriti+Rai+%F0%9F%91%8B;MCA+Student;Aspiring+Software+Developer;Android+%26+Java+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akriti+Rai+%F0%9F%91%8B;MCA+Student;Aspiring+Software+Developer;Android+%26+Java+Enthusiast;React+Learner;Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=akriti1402&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+
 ## 🚀 About Me
-- 🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 📱 **Android Enthusiast**
-- 🌱 Currently learning **Java**, **Android Development**, and **Web Applications**
-- 🔭 Working on personal projects to sharpen my problem-solving skills
-- 🤝 Open to collaborating on open-source and innovative project.
+- 🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 📱 **Android & React Enthusiast**
+- 🌱 Currently learning **Java**, **React**, **Android Development**, and **Web Applications**
+- 🔭 Building personal projects to sharpen my problem-solving skills
+- 🤝 Open to collaborating on **open-source** and **innovative projects**
+- ✨ Fun fact: I debug like a detective — every bug is a plot twist!
 
 ---
 
@@ -21,7 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Frameworks:**  
+**Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -29,16 +30,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 ![Akriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=akriti1402&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akriti1402&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akriti1402&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=akriti1402&theme=tokyonight&hide_border=true)
+
+---
+
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 😂 Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/akriti1402?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akriti1402?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akriti9140@gmail.com)
 
 ---
-
-
