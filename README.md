@@ -1,7 +1,7 @@
 <!-- Typing effect header -->
-# Hi there, I'm [Akriti Rai] 👋
+# Hi there, I'm Akriti Rai 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akriti+Rai+%F0%9F%91%8B;MCA+Student;Aspiring+Software+Developer;Android+%26+Java+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akriti+Rai+%F0%9F%91%8B;MCA+Student;Aspiring+Software+Developer;Android+%26+Java+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)-->
 
 ---
 
