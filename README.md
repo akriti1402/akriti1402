@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akriti1402&label=Profile%20Views&color=ff69b4&style=for-the-badge)
 
 ## 🚀 About Me
-- 🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 📱 **Android & React Enthusiast**
+- 🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 📱 **React Enthusiast**
 - 🌱 Currently learning **Java**, **React** and **Web Applications**
 - 🔭 Building personal projects to sharpen my problem-solving skills
 - 🤝 Open to collaborating on **open-source** and **innovative projects**
